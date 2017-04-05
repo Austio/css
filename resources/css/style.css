@@ -20,7 +20,9 @@ html {
 
 header {
   background-image: url(img/hero.jpg);
-  height: 100vh;
+  background-position: center;
+  background-size: cover;
+   height: 100vh;
 }
 
 h1 {
